@@ -4,32 +4,32 @@ Javamory is a Java-based memory game developed as part of a university programmi
 
 ## Features
 
-- Graphical user interface built with Java Swing
-- Multiple difficulty levels
-- Dynamic card matching logic
-- Game timer and attempt counter
-- Win detection and result screen
-- Menu and level selection
-- Sound and graphical assets
+* Graphical user interface built with Java Swing
+* Multiple difficulty levels
+* Dynamic card matching logic
+* Game timer and attempt counter
+* Win detection and result screen
+* Menu and level selection
+* Sound and graphical assets
 
 ## Technologies
 
-- Java
-- Java Swing
-- Object-oriented programming
-- Git
+* Java
+* Java Swing
+* Object-oriented programming
+* Git
 
 ## Project Structure
 
 The application consists of several components for game logic, GUI handling and state management, including:
 
-- GameEngine – core game logic and card matching
-- Card – representation of individual cards
-- CardPanel – graphical card display
-- BoardComponent – game board
-- GameTimer – game timer
-- JavamoryFrame – main application window
-- JavamoryGame – application entry point
+* GameEngine – core game logic and card matching
+* Card – representation of individual cards
+* CardPanel – graphical card display
+* BoardComponent – game board
+* GameTimer – game timer
+* JavamoryFrame – main application window
+* JavamoryGame – application entry point
 
 ## Background
 
@@ -48,3 +48,24 @@ The project requires a Java Development Kit (JDK).
 ## Author
 
 Fatjon Popaj
+
+## Screenshots
+
+
+
+\### Main Menu
+
+!\[Main Menu](screenshots/Menu.png)
+
+
+
+\### Gameplay
+
+!\[Gameplay](screenshots/Gameplay.png)
+
+
+
+\### How-To Screen
+
+!\[How-To Screen](screenshots/How-To.png)
+
