@@ -49,23 +49,23 @@ The project requires a Java Development Kit (JDK).
 
 Fatjon Popaj
 
-## Screenshots
+## \## Screenshots
 
+## 
 
+## \### Main Menu
 
-\### Main Menu
+## !\[Main Menu](screenshots/Menu.png)
 
-!\[Main Menu](screenshots/Menu.png)
+## 
 
+## \### Gameplay
 
+## !\[Gameplay](screenshots/Gameplay.png)
 
-\### Gameplay
+## 
 
-!\[Gameplay](screenshots/Gameplay.png)
+## \### How-To Screen
 
-
-
-\### How-To Screen
-
-!\[How-To Screen](screenshots/How-To.png)
+## !\[How-To Screen](screenshots/How-To.png)
 
