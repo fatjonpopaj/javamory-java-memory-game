@@ -55,10 +55,11 @@ Fatjon Popaj
 
 ![Main Menu](screenshots/Menu.png)
 
+### How-To Screen
+
+![How-To Screen](screenshots/How-To.png)
+
 ### Gameplay
 
 ![Gameplay](screenshots/Gameplay.png)
 
-### How-To Screen
-
-![How-To Screen](screenshots/How-To.png)
